@@ -1,5 +1,5 @@
 # 🏋️ RAG Treinos - Sistema de Assistente Inteligente para Exercícios Físicos
-> Sistema RAG (Retrieval-Augmented Generation) completo para consultas sobre treinos, exercícios e condicionamento físico, com interface web moderna e painel administrativo.
+> Sistema RAG (Retrieval-Augmented Generation) completo para consultas sobre treinos, exercícios e condicionamento físico, com interface web moderna e painel administrativo. OBS: Não coloquei os arquivos .pdf por questões de direitos autorais.
 
 ## 📋 Índice
 
@@ -117,7 +117,7 @@ ollama pull deepseek-r1:1.5b
 
 ### 1️⃣ **Clone o Repositório**
 ```bash
-git clone https://github.com/seu-usuario/rag-treinos.git
+git clone  https://github.com/DenisSMorais2/RAG-Treinos.git
 cd rag-treinos
 ```
 
@@ -646,3 +646,17 @@ def monitor_performance():
         'queries_per_minute': calculate_qpm()
     }
 ```
+Frontend e terminal iterativo:
+Admin Pag:
+
+![Captura de tela 2025-06-26 093208](https://github.com/user-attachments/assets/c452a5d1-ec01-470a-bd92-762afdf551cd)
+
+User Pag:
+
+![Captura de tela 2025-06-26 093225](https://github.com/user-attachments/assets/d4736f91-b761-4c7f-b644-43d30778c451)
+
+Iterative Terminal:
+
+![Captura de tela 2025-06-26 093656](https://github.com/user-attachments/assets/c098553b-e1a7-4be1-afeb-4efb2e8df3da)
+
+
