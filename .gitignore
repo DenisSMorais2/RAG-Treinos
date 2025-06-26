@@ -189,7 +189,7 @@ server.log
 
 # Relatórios gerados
 relatorio_*.txt
-relatorio_*.pdf
+#relatorio_*.pdf
 export_*.json
 backup_*.json
 
