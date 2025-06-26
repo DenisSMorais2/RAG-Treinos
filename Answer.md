@@ -70,7 +70,7 @@
 
 ## 📈 Vantagens do Sistema
 
-### Para Usuários:
+### Para Utilizador:
 - Respostas específicas e contextualizadas
 - Informações baseadas em fontes confiáveis
 - Segurança nas recomendações
