@@ -646,16 +646,16 @@ def monitor_performance():
         'queries_per_minute': calculate_qpm()
     }
 ```
-Frontend e terminal iterativo:
-Admin Pag:
+## Frontend e terminal iterativo:
+### Admin Pag:
 
 ![Captura de tela 2025-06-26 093208](https://github.com/user-attachments/assets/c452a5d1-ec01-470a-bd92-762afdf551cd)
 
-User Pag:
+### User Pag:
 
 ![Captura de tela 2025-06-26 093225](https://github.com/user-attachments/assets/d4736f91-b761-4c7f-b644-43d30778c451)
 
-Iterative Terminal:
+### Iterative Terminal:
 
 ![Captura de tela 2025-06-26 093656](https://github.com/user-attachments/assets/c098553b-e1a7-4be1-afeb-4efb2e8df3da)
 
